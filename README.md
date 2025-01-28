@@ -8,7 +8,7 @@ What's more, I'm a undergraduate student in School of **Control Science and Engi
 #### 💻 Technologies & Tools
 
 - Programming Languages: Python, Golang, C, JavaScript 
-- Front-end: HTML, CSS
+- Front-end: Vue
 - Back-end: Django, FastAPI, Flask
 - Databases: MySQL, Sqlite3
 - Version Control: Git
@@ -16,7 +16,7 @@ What's more, I'm a undergraduate student in School of **Control Science and Engi
 
 #### 🌱 Currently Learning
 
-I believe in the power of continuous learning, and I'm currently diving deep into topics like **Electrical Engineering**. I'm excited about exploring how these cutting-edge technologies can create innovative solutions to real-world challenges.
+I believe in the power of continuous learning, and I'm currently diving deep into topics like **detection technologies**, **signal analysis**, and **medical engineering**. I'm excited about exploring how these advanced fields can create innovative solutions to real-world challenges, especially in healthcare and biomedical applications.
 
 #### 🔍 What I'm Working On
 
@@ -29,7 +29,7 @@ I'm always eager to connect with fellow developers, tech enthusiasts, and anyone
 Thanks for stopping by! 😊
 
 #### 🤔 省流版
-一个热爱控制/电气/电子的本科生，一个混吃等死的开发者，**yuezhibang@126.com**，是兄弟就来砍我。
+喜欢围观/凑热闹，现在又在做检测/通信等，**yuezhibang@126.com**，控制之魂在燃烧。
 
 
 <!--
